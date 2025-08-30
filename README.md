@@ -1,3 +1,3 @@
-# Social-Media-Platform-Database-Design-
+# Social-Media-Platform-Database-SCHEMA-Design-
 
 Hello!
